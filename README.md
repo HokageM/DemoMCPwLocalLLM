@@ -31,7 +31,7 @@ I selected a model that **returns tool arguments in the correct data types** ins
 
 For example:  
 
-❌ Problem with some models (e.g., `gemma2`):  
+❌ Problem with some models (e.g., `llama3.2`):  
 ```json
 {"a":"4","b":"8"}
 ```
